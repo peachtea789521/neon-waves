@@ -1,0 +1,16 @@
+version: "1.0"
+
+project:
+  name: "Neon Waves Demo"
+  language: "HTML + CSS"
+
+animation:
+  background_colors:
+    - "#ff00ff"
+    - "#00ffff"
+    - "#ff9900"
+    - "#00ff00"
+  gradient_speed: 20s
+  text_color: "#ffffff"
+  text_shadow: "#0ff"
+  flicker: true
